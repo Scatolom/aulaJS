@@ -64,22 +64,35 @@
 //const numero02=Number(prompt("digite um numero"))
 //let resultado
 //if (operaçao === "+") {
-  ///  resultado=numero01+numero02
- //   console.log(resultado)
+    //resultado=numero01+numero02
+      //alert(resultado)
 //}
 //if (operaçao === "-") {
-// resultado=numero01-numero02
-    //console.log(resultado)
+ //resultado=numero01-numero02
+    //alert(resultado)
 //}
 //if (operaçao === "*") {
 //resultado=numero01*numero02
-   // console.log(resultado)
+   // alert(resultado)
 //}
 //if (operaçao === "/") {
-  //  if(numero02==0)
-   //     console.log("erro")
+   // if(numero02==0)
+      // alert("erro")
 //resultado=numero01/numero02
- //   console.log(resultado)
+    //alert(resultado)
 //}
     
+//const primeiro=Number(prompt("primeiro numero"))
+//const segundo=Number(prompt("segundo numero"))
+//const terceiro=Number(prompt("terceiro numero"))
+//if (primeiro==segundo&&segundo==terceiro){
+   //alert ("todos os numeros são iguais")
+//}
+  // else if (primeiro>=segundo&&primeiro>=terceiro)
+      //alert("o primeiro é maior")
+   //else if(segundo>=primeiro&&segundo>=terceiro)
+      //alert("o segundo é maior")
+   //else{
+     // alert("o terceiro é maior")
+  // }
 
