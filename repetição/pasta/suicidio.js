@@ -1,6 +1,6 @@
 //ADIVINHE O NUMERO
 //1 A 10
-const numeroSecreto=(Math.floor(Math.random()*100)+1)
+/*const numeroSecreto=(Math.floor(Math.random()*100)+1
 let palpite
 let tentativa=0
 console.log("adivinhe o numero")
