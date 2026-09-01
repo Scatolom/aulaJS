@@ -41,10 +41,10 @@ let linh =""
         linh+= p
         console.log(linh)
 }
-*/
+*//*
 for(let i=1;i<=10;i++){
     let p=""
     for(let o=1;o<=i;o++)
         p+="*"+""
     console.log(p)
-}
+}*/
