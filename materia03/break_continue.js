@@ -28,16 +28,16 @@ console.log( letras)*/
 
 const alunos = [
     {nome:"Davi",
-    nota:10.0,}
+    nota:10.0},
     {nome:"Matheus",
-    nota:0.0,}
+    nota:0.0},
     {nome:"Alexandre",
-    nota:8.0,}
+    nota:8.0},
     {nome:"Cua",
-    nota:9.0,}
+    nota:9.0},
     {nome:"Eric",
-    nota:10.0,}
+    nota:10.0},
 ]
-for()
+
 
 
